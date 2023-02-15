@@ -1,0 +1,13 @@
+	WELCOME TO SPIRIT TAEKWONDO FITNESS ACADEMY
+Bill Number:71932
+Customer Name:
+Mobile Number:
+Email:
+=======================================================
+ Products			QTY	Price
+=======================================================
+Daedo(Sparring)			3	6900
+Daedo(Chest Guard)			4	9200
+=======================================================
+ Total Amount:			Rs.16100.00
+=======================================================

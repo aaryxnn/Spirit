@@ -1,0 +1,14 @@
+	WELCOME TO SPIRIT TAEKWONDO FITNESS ACADEMY
+Bill Number: 8787
+Customer Name: Aaryan
+Mobile Number: 908949
+Email: udbcjwincbc@nfmoasj
+=======================================================
+ Products			QTY	Price
+=======================================================Shivgan(Mittpad)			2	2000
+Daedo(Chest Guard)			4	9200
+Mooto			5	15500
+
+=======================================================
+ Total Amount:			Rs.26700.00
+=======================================================
